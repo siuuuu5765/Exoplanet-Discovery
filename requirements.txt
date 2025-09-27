@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+astroquery
+lightkurve
+matplotlib
+plotly
+fpdf
